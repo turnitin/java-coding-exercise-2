@@ -1,4 +1,4 @@
-# Turnitin Java Coding Exercise 2
+# Turnitin Problem Solving Exercise
 
 Welcome! We're excited you've decided to talk with us about a position on our
 engineering team.
