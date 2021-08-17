@@ -88,10 +88,10 @@ repo with test scripts do the following:
 
 ```
 # Using ssh
-$ git clone git@github.com:turnitin/java-coding-exercise-2.git
+$ git clone git@github.com:turnitin/problem-solving-exercise.git
 
 # Using https
-$ git clone https://pusheen@github.com/turnitin/java-coding-exercise-2.git
+$ git clone https://pusheen@github.com/turnitin/problem-solving-exercise.git
 ```
 
 ##3. Remote
@@ -100,14 +100,14 @@ Once you are done you can put your solution in your own repository by adding it
 as a remote and pushing to it.
 
 1. Create a new repo via the github UI, let's assume you call it
-   `java-coding-exercise-2` to mirror ours.
+   `problem-solving-exercise.git` to mirror ours.
 2. If possible use a private repo. If you've run out of private repos on github
    them no worries, we'd just like to make sure that every candidate's work is
    his or her own.
 3. Add your repo as a remote and push:
 
 ```
-$ git remote add myrepo git@github.com:pusheen/java-coding-exercise-2.git
+$ git remote add myrepo git@github.com:pusheen/problem-solving-exercise.git
 $ git push myrepo master
 ```
 
